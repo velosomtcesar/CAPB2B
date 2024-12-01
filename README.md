@@ -4,4 +4,4 @@ See the [Back to basics playlist of live stream replays from the Hands-on SAP De
 
 🚨 If you want to clone this repo and use it in VS Code as we do on the series, make sure you have the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension installed in VS Code first.
 
-Good night
+
